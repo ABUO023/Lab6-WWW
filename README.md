@@ -6,6 +6,10 @@ A simple task management application built with HTML, CSS, and JavaScript.
 
 [https://abuo023.github.io/Lab6-WWW/](https://abuo023.github.io/Lab6-WWW/)
 
+## Demo Video
+
+[Demo Link](./assets/lab6.mp4)
+
 ## Features
 
 - Add, delete, and reorder tasks
